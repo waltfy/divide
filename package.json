@@ -1,0 +1,29 @@
+{
+  "name": "divide",
+  "version": "0.0.1",
+  "description": "Divides an array into 2 or more arrays given a ratio.",
+  "main": "index.js",
+  "scripts": {
+    "test": "tap test/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/waltervascarvalho/divide"
+  },
+  "keywords": [
+    "divide",
+    "split",
+    "partition",
+    "array",
+    "list"
+  ],
+  "author": "Walter Carvalho",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/waltervascarvalho/divide/issues"
+  },
+  "homepage": "https://github.com/waltervascarvalho/divide",
+  "devDependencies": {
+    "tap": "^0.4.9"
+  }
+}
