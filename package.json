@@ -4,7 +4,7 @@
   "description": "Divides an array into 2 or more arrays given a ratio.",
   "main": "index.js",
   "scripts": {
-    "test": "tap test/"
+    "test": "tap ./test"
   },
   "repository": {
     "type": "git",
