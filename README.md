@@ -1,7 +1,7 @@
 divide
 ======
 
-[[!Build Status](https://travis-ci.org/waltervascarvalho/divide.svg?branch=master)](https://travis-ci.org/waltervascarvalho/divide)
+![Build Status](https://travis-ci.org/waltervascarvalho/divide.svg?branch=master)](https://travis-ci.org/waltervascarvalho/divide)
 
 ![Gitter Badge](https://badges.gitter.im/waltervascarvalho/divide.png)
 
