@@ -1,9 +1,9 @@
 divide
 ======
 
-![Build Status](https://travis-ci.org/waltervascarvalho/divide.svg?branch=master)
+[![Build Status](https://travis-ci.org/waltervascarvalho/divide.svg?branch=master)](https://travis-ci.org/waltervascarvalho/divide)
 
-![Gitter Badge](https://badges.gitter.im/waltervascarvalho/divide.png)
+[![Gitter Badge](https://badges.gitter.im/waltervascarvalho/divide.png)](https://gitter.im/waltervascarvalho/divide)
 
 Divides an array into 2 or more arrays given a number of rates—e.g. If you want to split a list into 2 equal lists `divide.ratio([1, 2, 3, 4], 0.5);`.
 
