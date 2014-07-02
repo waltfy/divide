@@ -1,6 +1,6 @@
 {
   "name": "divide",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Divides an array into 2 or more arrays given a ratio.",
   "main": "index.js",
   "scripts": {
