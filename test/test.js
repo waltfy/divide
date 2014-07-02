@@ -60,5 +60,18 @@ t('ratio with a string', function (t) {
   );
 
   t.end();
+});
 
+t('random with numbers', function (t) {
+  var result = d.random(numbers, 0.5);
+  t.equal(result[0].length, 5, "length of first split should be 5");
+  t.equal(result[1].length, 5, "length of second split should be 5");
+  t.end();
+});
+
+t('random with string', function (t) {
+  var result = d.random(str, 0.5);
+  t.equal(result[0].length, 5, "length of first split should be 5");
+  t.equal(result[1].length, 5, "length of second split should be 5");
+  t.end();
 });
