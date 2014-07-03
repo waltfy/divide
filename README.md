@@ -22,7 +22,6 @@ d.ratio(num, 0.2); // [ [0, 1], [2, 3, 4, 5, 6, 7, 8, 9] ]
 d.ratio(num, 0.5); // [ [0, 1, 2, 3, 4], [5, 6, 7, 8, 9] ]
 d.ratio(num, 0.5, 0.3, 0.2); // [ [0, 1, 2, 3, 4], [5, 6, 7], [8, 9] ]
 d.ratio(str, 0.5); // [ ['abcde', '12345'] ]
-
 ```
 
 ### random()
@@ -35,5 +34,4 @@ var str = "abcde12345";
 /* d.random() - Shuffles then splits an Array (or String) with given ratios */
 d.random(num, 0.5); // [ [ 1, 2, 9, 0, 6 ], [ 5, 8, 4, 3, 7 ] ]
 d.random(str, 0.5); // [ [ 'bd4c1', 'a523e' ] ]
-
 ```
