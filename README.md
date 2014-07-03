@@ -7,9 +7,9 @@ divide
 
 Divides an array into 2 or more arrays given a number of rates—e.g. If you want to split a list into 2 equal lists `divide.ratio([1, 2, 3, 4], 0.5);`.
 
-### Example Usage
+## Example Usage
 
-## ratio()
+### ratio()
 
 ```javascript
 var d = require('divide');
@@ -25,7 +25,7 @@ d.ratio(str, 0.5); // [ ['abcde', '12345'] ]
 
 ```
 
-## random()
+### random()
 
 ```javascript
 var d = require('divide');
