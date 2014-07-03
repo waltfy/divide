@@ -5,7 +5,7 @@ divide
 
 [![Gitter Badge](https://badges.gitter.im/waltervascarvalho/divide.png)](https://gitter.im/waltervascarvalho/divide)
 
-Divides an array into 2 or more arrays given a number of rates—e.g. If you want to split a list into 2 equal lists `divide.ratio([1, 2, 3, 4], 0.5);`.
+Divides an array into 2 or more arrays given a list of ratios as floats, without modifying the original array.—e.g. If you want to split a list into 2 equal lists `divide.ratio([1, 2, 3, 4], 0.5);`.
 
 ## Example Usage
 
