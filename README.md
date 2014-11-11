@@ -1,6 +1,5 @@
 divide
 ======
-[![Gitter](https://badges-beta.gitter.im/Join Chat.svg)](https://beta.gitter.im/waltfy/divide?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 [![Build Status](https://travis-ci.org/waltfy/divide.svg?branch=master)](https://travis-ci.org/waltervascarvalho/divide) [![NPM version](https://badge.fury.io/js/divide.svg)](https://www.npmjs.org/package/divide) [![Gitter](https://badges.gitter.im/divide.svg)](https://gitter.im/waltfy/divide?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
