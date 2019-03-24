@@ -25,5 +25,8 @@
   "homepage": "https://github.com/waltervascarvalho/divide",
   "devDependencies": {
     "tap": "^0.4.9"
+  },
+  "dependencies": {
+    "handlebars": "^4.1.1"
   }
 }
